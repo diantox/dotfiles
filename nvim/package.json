@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bash-language-server": "4.2.X",
+    "dockerfile-language-server-nodejs": "0.9.X",
+    "graphql": "16.6.X",
+    "graphql-language-service-cli": "3.3.X",
+    "pyright": "1.1.X",
+    "typescript": "4.9.X",
+    "typescript-language-server": "3.0.X",
+    "vscode-langservers-extracted": "4.5.X",
+    "yaml-language-server": "1.10.0"
+  }
+}
