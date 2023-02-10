@@ -1,0 +1,7 @@
+[core]
+	editor = nvim
+[user]
+	name = Mira Absar
+	email = me@miras.dev
+[init]
+	defaultBranch = main
